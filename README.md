@@ -10,6 +10,7 @@ Animations are taken from ADOBE MIXAMO.
 
 ## Working of the 3rd person controller
 <br>
+
 ![movement](https://user-images.githubusercontent.com/58749843/177001408-951e2f94-5b81-4726-8acd-9a001866e560.gif)
 
 
