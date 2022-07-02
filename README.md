@@ -7,9 +7,10 @@ Animations are taken from ADOBE MIXAMO.
 <img src="https://user-images.githubusercontent.com/58749843/177001034-33e116f8-6a5f-4819-bd17-9fa84f7f0406.png" width="600" height="400">
 <br>
 <br>
+
 ## Working of the 3rd person controller
 <br>
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/58749843/177001408-951e2f94-5b81-4726-8acd-9a001866e560.gif)
+![movement](https://user-images.githubusercontent.com/58749843/177001408-951e2f94-5b81-4726-8acd-9a001866e560.gif)
 
 
 
