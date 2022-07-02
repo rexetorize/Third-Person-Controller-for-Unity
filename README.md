@@ -4,4 +4,4 @@ Animations are taken from ADOBE MIXAMO.
 
 
 ![image](https://user-images.githubusercontent.com/58749843/177001034-33e116f8-6a5f-4819-bd17-9fa84f7f0406.png)
-<img src="https://user-images.githubusercontent.com/58749843/177001034-33e116f8-6a5f-4819-bd17-9fa84f7f0406.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/58749843/177001034-33e116f8-6a5f-4819-bd17-9fa84f7f0406.png" width="720" height="720">
