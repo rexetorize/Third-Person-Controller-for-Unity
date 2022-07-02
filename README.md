@@ -17,4 +17,4 @@ Animations are taken from ADOBE MIXAMO.
 
 <br>
 
-This is a work in progress. i'm going to add jump, slide and other parkour features to the charater
+This is a work in progress. i'm going to add jump, slide and other parkour features to the character
