@@ -7,7 +7,12 @@ Animations are taken from ADOBE MIXAMO.
 <img src="https://user-images.githubusercontent.com/58749843/177001034-33e116f8-6a5f-4819-bd17-9fa84f7f0406.png" width="600" height="400">
 <br>
 <br>
-##Working of the 3rd person controller
+## Working of the 3rd person controller
 <br>
-<video src="https://user-images.githubusercontent.com/58749843/177001278-573412d0-4a11-4e09-9d6a-e276d21a67b9.gif" width="600" height="800">
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/58749843/177001408-951e2f94-5b81-4726-8acd-9a001866e560.gif)
 
+
+
+<br>
+
+This is a work in progress. i'm going to add jump, slide and other parkour features to the charater
